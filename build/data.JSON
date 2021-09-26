@@ -1,0 +1,143 @@
+[{
+    "id": 1,
+    "image": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5aecccdf31358e612fb80afa%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D1234%26cropX2%3D3554%26cropY1%3D348%26cropY2%3D2667",
+    "name": "Xi Jinping",
+    "country": "China",
+    "donation": 50000,
+    "influence": 1,
+    "age": 68,
+    "designation": "General Secretary",
+    "netWorth": "10 billion"
+}, 
+{
+    "id": 2,
+    "image": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5aecc9a84bbe6f748688434d%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D271%26cropX2%3D1742%26cropY1%3D321%26cropY2%3D1791",
+    "name": "Vladimir Putin",
+    "country": "Russia",
+    "donation": 100000,
+    "influence": 2,
+    "age": 68,
+    "designation": "president",
+    "netWorth": "15 billion"
+}, 
+{
+    "id": 3,
+    "image": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5638e53de4b0ffa7afe6a26a%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D27%26cropX2%3D731%26cropY1%3D32%26cropY2%3D736",
+    "name": "Donald Trump",
+    "country": "United States",
+    "donation": 150000,
+    "influence": 3,
+    "age": 75,
+    "designation": "president",
+    "netWorth": "15.5 billion"
+}, 
+{
+    "id": 4,
+    "image": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fce8861a3f1e6e4929e0577%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D463%26cropX2%3D3998%26cropY1%3D964%26cropY2%3D4500",
+    "name": "Angela Merkel",
+    "country": "Germany",
+    "donation": 50000,
+    "influence": 4,
+    "age": 67,
+    "designation": "Chancellor",
+    "netWorth": "5 billion"
+},
+ {
+    "id": 5,
+    "image": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5bb22ae84bbe6f67d2e82e05%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D627%26cropX2%3D1639%26cropY1%3D129%26cropY2%3D1142",
+    "name": "Jeff Bezos",
+    "country": "Amazon",
+    "donation": 20000,
+    "influence": 5,
+    "age": 57,
+    "designation": "Ceo",
+    "netWorth": "20 billion"
+},
+ {
+    "id": 6,
+    "image": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5637e2bce4b0ffa7afe69233%2F0x0.jpg%3Ffit%3Dscale%26background%3D000000",
+    "name": "Pope Francis",
+    "country": "Roman Catholic Church",
+    "donation": 5000,
+    "influence": 6,
+    "age": 84,
+    "designation": "Bishop of Rome",
+    "netWorth": "1 billion"
+}, 
+{
+    "id": 7,
+    "image": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4ebe0c87612dab4f12a597%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D292%26cropX2%3D3684%26cropY1%3D592%26cropY2%3D3987",
+    "name": "Bill Gates",
+    "country": "Bill & Melinda Gates Foundation",
+    "donation": 75000,
+    "influence": 7,
+    "age": 84,
+    "designation": "Cofounder",
+    "netWorth": "23 billion"
+}, 
+{
+    "id": 8,
+    "image": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5aeca7bfa7ea436b547c476b%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D782%26cropX2%3D4433%26cropY1%3D0%26cropY2%3D3648",
+    "name": " Mohammed bin Salman Al Saud",
+    "country": "Saudi Arabia",
+    "donation": 70000,
+    "influence": 8,
+    "age": 36,
+    "designation": "Crown Prince",
+    "netWorth": "12 billion"
+}, 
+{
+    "id": 9,
+    "image": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5637ed7de4b0ffa7afe69473%2F0x0.jpg%3Ffit%3Dscale%26background%3D000000",
+    "name": "Narendra Modi",
+    "country": "India",
+    "donation": 2000,
+    "influence": 9,
+    "age": 71,
+    "designation": "Prime Minister",
+    "netWorth": "1.5 billion"
+},
+ {
+    "id": 10,
+    "image": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5c76bcaaa7ea43100043c836%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D227%26cropX2%3D2022%26cropY1%3D22%26cropY2%3D1817",
+    "name": "Larry Page",
+    "country": "Alphabet",
+    "donation": 20000,
+    "influence": 10,
+    "age": 48,
+    "designation": "Cofounder and board member",
+    "netWorth": "5.5 billion"
+},
+ {
+    "id": 11,
+    "image": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5aeca99ca7ea436b547c4828%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D1034%26cropX2%3D3651%26cropY1%3D51%26cropY2%3D2667",
+    "name": "Jerome H. Powell",
+    "country": "United States",
+    "donation": 25000,
+    "influence": 11,
+    "age": 68,
+    "designation": "Chair, Federal Reserve",
+    "netWorth": "2 billion"
+},
+ {
+    "id": 12,
+    "image": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5aecab0231358e612fb80603%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D751%26cropX2%3D3039%26cropY1%3D721%26cropY2%3D3010",
+    "name": "Emmanuel Macron",
+    "country": "France",
+    "donation": 25000,
+    "influence": 12,
+    "age": 43,
+    "designation": "President",
+    "netWorth": "6 billion"
+}, 
+{
+    "id": 13,
+    "image": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5c76b7d331358e35dd2773a9%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D0%26cropX2%3D4401%26cropY1%3D0%26cropY2%3D4401",
+    "name": "Mark Zuckerberg",
+    "country": "Facebook",
+    "donation": 28000,
+    "influence": 13,
+    "age": 37,
+    "designation": "CEO",
+    "netWorth": "14 billion"
+}]
